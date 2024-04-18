@@ -1,8 +1,8 @@
 class Kubit < Formula
   desc "Kubecfg kubit operator"
   homepage "https://github.com/kubecfg/kubit"
-  url "https://github.com/kubecfg/kubit/archive/v0.0.14.tar.gz"
-  sha256 "bff44c010057aab359c56f8d40dd9ccb6f2b525e597cd766eb4d3965b851f7bf"
+  url "https://github.com/kubecfg/kubit/archive/v0.0.15.tar.gz"
+  sha256 "96f9d1d7616e1b4047795478d96d41899f06eb650d4fffa3438459f4ed9aef4b"
   license "Apache-2.0"
   head "https://github.com/kubecfg/kubit.git", branch: "main"
 
